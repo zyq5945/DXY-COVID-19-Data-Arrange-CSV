@@ -1,0 +1,9 @@
+﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
+36.57535,"2020-02-29 13:48:30.210",宁夏,中卫,4,0,3,0,1,0.75,0,0.25,0,,0.05479452,,0.04347826,,0.25,1,,1,,0.3333333,,,8.237741E-05,,0.0001707262,0,2.631094E-05
+36.57535,"2020-02-29 13:48:30.210",宁夏,吴忠,28,0,27,0,1,0.9642857,0,0.03571429,0,,0.3835616,,0.3913043,,0.25,1,,1,,0.04761905,,,0.0005766419,,0.001536535,0,2.631094E-05
+36.57535,"2020-02-29 13:48:30.210",宁夏,固原,5,0,5,0,0,1,0,0,0,,0.06849315,,0.07246377,,0,1,,1,,0,,,0.0001029718,,0.0002845436,0,0
+36.57535,"2020-02-29 13:48:30.210",宁夏,宁东,1,0,1,0,0,1,0,0,0,,0.01369863,,0.01449275,,0,1,,1,,0,,,2.059435E-05,,5.690872E-05,0,0
+36.57535,"2020-02-29 13:48:30.210",宁夏,石嘴山,1,0,1,0,0,1,0,0,0,,0.01369863,,0.01449275,,0,1,,1,,0,,,2.059435E-05,,5.690872E-05,0,0
+36.57535,"2020-02-29 13:48:30.210",宁夏,银川,34,0,32,0,2,0.9411765,0,0.05882353,0,,0.4657534,,0.4637681,,0.5,1,,1,,0.07692308,,,0.000700208,,0.001821079,0,5.262189E-05
+15.71295,"2020-02-08 17:06:38.721",宁夏,宁东管委会,1,0,0,0,1,0,0,1,,,0.02222222,,0,,0.03333334,1,,,,1,,,2.059435E-05,,0,0,2.631094E-05
+15.71295,"2020-02-08 17:06:38.721",宁夏,待明确地区,0,0,10,0,,,,,0,,0,,0.6666667,,,,,1,,,,,0,,0.0005690872,0,
