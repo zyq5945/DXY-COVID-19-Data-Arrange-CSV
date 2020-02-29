@@ -9,9 +9,15 @@
 
 针对可能对不同网站访问速度有快慢问题，酌情可以考虑以下最快的访问地址：
 
-### [github 仓库地址](https://github.com/zyq5945/DXY-COVID-19-Data-Arrange-CSV)
+#### [github 仓库地址](https://github.com/zyq5945/DXY-COVID-19-Data-Arrange-CSV)
 
-### [gitee  仓库地址](https://gitee.com/zyq5945/DXY-COVID-19-Data-Arrange-CSV)
+#### [gitee  仓库地址](https://gitee.com/zyq5945/DXY-COVID-19-Data-Arrange-CSV)
+
+#### [github 网站地址](https://zyq5945.github.io/DXY-COVID-19-Data-Arrange-CSV)
+
+#### [gitee  网站地址](https://zyq5945.gitee.io/dxy-covid-19-data-arrange-csv/)
+
+注：gitee.io地址主页跳转到子页的路径地址和github.io地址不太一样，请注意区别。
 
 
 ## 3.生成文件的说明
