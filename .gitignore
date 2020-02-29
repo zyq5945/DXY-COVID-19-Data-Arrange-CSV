@@ -1,0 +1,9 @@
+﻿## Ignore build results and temporary files.
+
+AllChildren.csv
+AllParents.csv
+AllRecords.csv
+
+AllChildren.json
+AllParents.json
+AllRecords.json
