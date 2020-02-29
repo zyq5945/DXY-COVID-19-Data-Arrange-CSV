@@ -1,4 +1,4 @@
-﻿
+
 ## 1.介绍说明
 
 本项目是使用[diseasedataarrange](https://github.com/zyq5945/diseasedataarrange)程序，针对[DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data)的最新DXYArea.csv文件，自动生成整理后的CSV格式文件数据。
@@ -9,9 +9,9 @@
 
 针对可能对不同网站访问速度有快慢问题，酌情可以考虑以下最快的访问地址：
 
-### [github.com 仓库地址](https://github.com/zyq5945/DXY-COVID-19-Data-Arrange-CSV)
+### [github 仓库地址](https://github.com/zyq5945/DXY-COVID-19-Data-Arrange-CSV)
 
-### [github.io  网页地址](https://zyq5945.github.com/DXY-COVID-19-Data-Arrange-CSV)
+### [gitee  仓库地址](https://gitee.com/zyq5945/DXY-COVID-19-Data-Arrange-CSV)
 
 
 ## 3.生成文件的说明
