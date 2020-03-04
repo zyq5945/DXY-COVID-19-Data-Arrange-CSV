@@ -1,6 +1,6 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
 9.679673,"2020-02-02 16:18:43.725",西藏,1,0,0,0,1,0,0,1,,,1,,0,,1,,,1.245764E-05,,0,0,1.974996E-05
 11.6746,"2020-02-04 16:11:25.779",西藏,1,0,0,0,1,0,0,1,,,1,,0,,1,,,1.245764E-05,,0,0,1.974996E-05
-19.61293,"2020-02-12 14:42:37.332",西藏,1,0,1,0,0,1,0,0,0,,1,,1,,0,,,1.245764E-05,,2.003767E-05,0,0
-20.01333,"2020-02-13 00:19:12.057",西藏,1,0,1,0,0,1,0,0,0,,1,,1,,0,,,1.245764E-05,,2.003767E-05,0,0
-30.8049,"2020-02-23 19:19:02.938",西藏,1,0,1,0,0,1,0,0,0,,1,,1,,0,,,1.245764E-05,,2.003767E-05,0,0
+19.61293,"2020-02-12 14:42:37.332",西藏,1,0,1,0,0,1,0,0,0,,1,,1,,0,,,1.245764E-05,,2.002884E-05,0,0
+20.01333,"2020-02-13 00:19:12.057",西藏,1,0,1,0,0,1,0,0,0,,1,,1,,0,,,1.245764E-05,,2.002884E-05,0,0
+30.8049,"2020-02-23 19:19:02.938",西藏,1,0,1,0,0,1,0,0,0,,1,,1,,0,,,1.245764E-05,,2.002884E-05,0,0
