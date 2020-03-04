@@ -1,7 +1,7 @@
 
 ## 1.介绍说明
 
-本项目是使用[diseasedataarrange](https://github.com/zyq5945/diseasedataarrange)程序，针对[DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data)的最新DXYArea.csv文件，自动生成整理后的CSV格式文件数据。
+本项目是使用[diseasedataarrange](https://github.com/zyq5945/diseasedataarrange)程序，针对BlankerL发布的[DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data)的最新DXYArea.csv文件，自动生成整理后的CSV格式文件数据。
 
 若你对生成的数据有疑问，或者认为汇总的数据有误，请向[BlankerL反馈异常数据](https://github.com/BlankerL/DXY-COVID-19-Crawler/issues/34)
 
@@ -113,6 +113,5 @@
 
 ## 6.一些个人的DXY-COVID-19数据分析心得
 
-康复率，死亡率和政治治疗率需要合在一起考虑，若事件结束后最终康复率教高，早期阶段数据少会造成数据有很大波动，中间阶段死亡率会逐步上升，死亡率会缓慢上升，正在治疗率会逐步下降。以死亡率在中期阶段大数据情况下，这会使得较少数据“噪点”数据就出现较大数值变动成为历史，就会出现缓慢上升这个前提条件来看，整体而言，患者多的地区较容易出现高死亡率，北方比南方较容易出现较高死亡率，越冷就越如此，这和[最终统计的2003年北京的SARS的死亡率](https://zyq5945.github.io/zyq5945/blog_10.html)比广东的差是一致的。
 
-瞎琢磨尝试用安徽省的康复数标准化数据进行Boltzmann数据拟合，还挺符合的。
+[《使用OriginLab的Boltzmann模型拟合仿真预测中国COVID-19(2019-nCov)疫情康复情况》](https://zyq5945.github.io/zyq5945/blog_13.html)
