@@ -1,5 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-41.60835,"2020-03-05 14:36:01.683",上海,境外输入人员,1,0,0,0,1,0,0,1,,,0.002949852,,0,0,0.03030303,0.25,,,,0.25,,,2.005173E-05,,0,0,2.631094E-05
-42.47432,"2020-03-06 11:23:01.469",上海,境外输入人员,1,0,0,0,1,0,0,1,,,0.002949852,,0,0,0.03333334,0.25,,,,0.25,,,2.005173E-05,,0,0,2.631094E-05
-42.58822,"2020-03-06 14:07:02.179",上海,境外输入人员,4,0,0,0,4,0,0,1,,,0.01169591,,0,0,0.1212121,1,,,,1,,,8.020693E-05,,0,0,0.0001052438
-43.49532,"2020-03-07 11:53:15.782",上海,境外输入人员,4,0,0,0,4,0,0,1,,,0.01169591,,0,0,0.1538462,1,,,,1,,,8.020693E-05,,0,0,0.0001052438
+41.60835,"2020-03-05 14:36:01.683",上海,境外输入人员,1,0,0,0,1,0,0,1,,,0.002949852,,0,0,0.03030303,0.25,,,,0.25,,,2.003526E-05,,0,0,2.631094E-05
+42.47432,"2020-03-06 11:23:01.469",上海,境外输入人员,1,0,0,0,1,0,0,1,,,0.002949852,,0,0,0.03333334,0.25,,,,0.25,,,2.003526E-05,,0,0,2.631094E-05
+42.58822,"2020-03-06 14:07:02.179",上海,境外输入人员,4,0,0,0,4,0,0,1,,,0.01169591,,0,0,0.1212121,1,,,,1,,,8.014105E-05,,0,0,0.0001052438
+43.49532,"2020-03-07 11:53:15.782",上海,境外输入人员,4,0,0,0,4,0,0,1,,,0.01169591,,0,0,0.1538462,1,,,,1,,,8.014105E-05,,0,0,0.0001052438

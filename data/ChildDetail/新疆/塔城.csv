@@ -1,3 +1,3 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-13.62738,"2020-02-06 15:03:26.033",新疆,塔城,4,0,0,0,4,0,0,1,,,0.1111111,,,,0.1111111,1,,,,1,,,8.020693E-05,,0,0,0.0001052438
-14.39937,"2020-02-07 09:35:05.305",新疆,塔城,4,0,0,0,4,0,0,1,,,0.1025641,,,,0.1025641,1,,,,1,,,8.020693E-05,,0,0,0.0001052438
+13.62738,"2020-02-06 15:03:26.033",新疆,塔城,4,0,0,0,4,0,0,1,,,0.1111111,,,,0.1111111,1,,,,1,,,8.014105E-05,,0,0,0.0001052438
+14.39937,"2020-02-07 09:35:05.305",新疆,塔城,4,0,0,0,4,0,0,1,,,0.1025641,,,,0.1025641,1,,,,1,,,8.014105E-05,,0,0,0.0001052438

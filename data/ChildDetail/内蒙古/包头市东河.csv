@@ -1,5 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-3.406507,"2020-01-27 09:45:22.239",内蒙古,包头市东河,1,0,0,0,1,0,0,1,,,0.09090909,,,,0.09090909,0.5,,,,0.5,,,2.005173E-05,,0,0,2.631094E-05
-3.407208,"2020-01-27 09:46:22.770",内蒙古,包头市东河,1,0,0,0,1,0,0,1,,,0.09090909,,,,0.09090909,0.5,,,,0.5,,,2.005173E-05,,0,0,2.631094E-05
-3.407909,"2020-01-27 09:47:23.300",内蒙古,包头市东河,2,0,0,0,2,0,0,1,,,0.1818182,,,,0.1818182,1,,,,1,,,4.010347E-05,,0,0,5.262189E-05
-3.408609,"2020-01-27 09:48:23.835",内蒙古,包头市东河,2,0,0,0,2,0,0,1,,,0.1818182,,,,0.1818182,1,,,,1,,,4.010347E-05,,0,0,5.262189E-05
+3.406507,"2020-01-27 09:45:22.239",内蒙古,包头市东河,1,0,0,0,1,0,0,1,,,0.09090909,,,,0.09090909,0.5,,,,0.5,,,2.003526E-05,,0,0,2.631094E-05
+3.407208,"2020-01-27 09:46:22.770",内蒙古,包头市东河,1,0,0,0,1,0,0,1,,,0.09090909,,,,0.09090909,0.5,,,,0.5,,,2.003526E-05,,0,0,2.631094E-05
+3.407909,"2020-01-27 09:47:23.300",内蒙古,包头市东河,2,0,0,0,2,0,0,1,,,0.1818182,,,,0.1818182,1,,,,1,,,4.007052E-05,,0,0,5.262189E-05
+3.408609,"2020-01-27 09:48:23.835",内蒙古,包头市东河,2,0,0,0,2,0,0,1,,,0.1818182,,,,0.1818182,1,,,,1,,,4.007052E-05,,0,0,5.262189E-05
