@@ -1,2 +1,2 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-2.361203,"2020-01-26 08:40:07.920",澳门,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.479728E-05,,0,0,3.949993E-05
+2.361203,"2020-01-26 08:40:07.920",澳门,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.479667E-05,,0,0,3.949993E-05
