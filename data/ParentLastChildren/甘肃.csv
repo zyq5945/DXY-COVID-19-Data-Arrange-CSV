@@ -1,6 +1,6 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
 44.93923,"2020-03-08 22:32:29.382",甘肃,临夏,3,0,3,0,0,1,0,0,0,,0.02419355,,0.03448276,0,0,1,,1,,0,,,6.006247E-05,,9.682104E-05,0,0
-44.93923,"2020-03-08 22:32:29.382",甘肃,兰州,36,0,33,2,1,0.9166667,0.05555556,0.02777778,0.06060606,16.5,0.2903226,,0.3793103,1,0.02857143,1,,1,1,0.03703704,0.3030303,1,0.0007207496,,0.001065032,0.0008375209,2.631094E-05
+44.93923,"2020-03-08 22:32:29.382",甘肃,兰州,36,0,33,2,1,0.9166667,0.05555556,0.02777778,0.06060606,16.5,0.2903226,,0.3793103,1,0.02857143,1,,1,1,0.03703704,0.3030303,1,0.0007207496,,0.001065032,0.0008371703,2.631094E-05
 44.93923,"2020-03-08 22:32:29.382",甘肃,境外输入人员,33,0,0,0,33,0,0,1,,,0.266129,,0,0,0.9428571,1,,,,1,,,0.0006606871,,0,0,0.0008682611
 44.93923,"2020-03-08 22:32:29.382",甘肃,天水,12,0,12,0,0,1,0,0,0,,0.09677419,,0.137931,0,0,1,,1,,0,,,0.0002402499,,0.0003872842,0,0
 44.93923,"2020-03-08 22:32:29.382",甘肃,定西,9,0,8,0,1,0.8888889,0,0.1111111,0,,0.07258064,,0.09195402,0,0.02857143,1,,1,,0.1428571,,,0.0001801874,,0.0002581895,0,2.631094E-05
