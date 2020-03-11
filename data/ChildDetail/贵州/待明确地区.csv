@@ -1,5 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-18.91343,"2020-02-11 21:55:20.587",贵州,待明确地区,0,0,4,0,,,,,0,,0,,0.2352941,0,,,,4,,,,,0,,0.0001210471,0,
-30.83754,"2020-02-23 20:06:03.658",贵州,待明确地区,0,0,8,0,,,,,0,,0,,0.08080808,0,,,,8,,,,,0,,0.0002420941,0,
-30.85782,"2020-02-23 20:35:15.697",贵州,待明确地区,0,0,11,0,,,,,0,,0,,0.1078431,0,,,,11,,,,,0,,0.0003328794,0,
-32.66754,"2020-02-25 16:01:15.127",贵州,待明确地区,0,0,1,0,,,,,0,,0,,0.009615385,0,,,,1,,,,,0,,3.026176E-05,0,
+18.91343,"2020-02-11 21:55:20.587",贵州,待明确地区,0,0,4,0,,,,,0,,0,,0.2352941,0,,,,4,,,,,0,,0.0001207839,0,
+30.83754,"2020-02-23 20:06:03.658",贵州,待明确地区,0,0,8,0,,,,,0,,0,,0.08080808,0,,,,8,,,,,0,,0.0002415678,0,
+30.85782,"2020-02-23 20:35:15.697",贵州,待明确地区,0,0,11,0,,,,,0,,0,,0.1078431,0,,,,11,,,,,0,,0.0003321557,0,
+32.66754,"2020-02-25 16:01:15.127",贵州,待明确地区,0,0,1,0,,,,,0,,0,,0.009615385,0,,,,1,,,,,0,,3.019597E-05,0,
