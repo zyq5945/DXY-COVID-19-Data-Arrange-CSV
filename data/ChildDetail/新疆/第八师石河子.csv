@@ -1,6 +1,6 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-4.396703,"2020-01-28 09:31:15.161",新疆,第八师石河子,1,0,0,0,1,0,0,1,,,0.1,,,,0.1,1,,,,1,,,2.00088E-05,,0,0,2.631094E-05
-5.356388,"2020-01-29 08:33:11.934",新疆,第八师石河子,1,0,0,0,1,0,0,1,,,0.07692308,,,,0.07692308,1,,,,1,,,2.00088E-05,,0,0,2.631094E-05
-5.881249,"2020-01-29 21:08:59.967",新疆,第八师石河子,1,0,0,0,1,0,0,1,,,0.07692308,,,,0.07692308,1,,,,1,,,2.00088E-05,,0,0,2.631094E-05
-6.378598,"2020-01-30 09:05:10.886",新疆,第八师石河子,1,0,0,0,1,0,0,1,,,0.07142857,,,,0.07142857,1,,,,1,,,2.00088E-05,,0,0,2.631094E-05
-7.401102,"2020-01-31 09:37:35.223",新疆,第八师石河子,1,0,0,0,1,0,0,1,,,0.05882353,,,,0.05882353,1,,,,1,,,2.00088E-05,,0,0,2.631094E-05
+4.396703,"2020-01-28 09:31:15.161",新疆,第八师石河子,1,0,0,0,1,0,0,1,,,0.1,,,,0.1,1,,,,1,,,2.00056E-05,,0,0,2.631094E-05
+5.356388,"2020-01-29 08:33:11.934",新疆,第八师石河子,1,0,0,0,1,0,0,1,,,0.07692308,,,,0.07692308,1,,,,1,,,2.00056E-05,,0,0,2.631094E-05
+5.881249,"2020-01-29 21:08:59.967",新疆,第八师石河子,1,0,0,0,1,0,0,1,,,0.07692308,,,,0.07692308,1,,,,1,,,2.00056E-05,,0,0,2.631094E-05
+6.378598,"2020-01-30 09:05:10.886",新疆,第八师石河子,1,0,0,0,1,0,0,1,,,0.07142857,,,,0.07142857,1,,,,1,,,2.00056E-05,,0,0,2.631094E-05
+7.401102,"2020-01-31 09:37:35.223",新疆,第八师石河子,1,0,0,0,1,0,0,1,,,0.05882353,,,,0.05882353,1,,,,1,,,2.00056E-05,,0,0,2.631094E-05
