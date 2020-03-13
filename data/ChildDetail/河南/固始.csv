@@ -1,5 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-1.465641,"2020-01-25 11:10:31.412",河南,固始,1,0,0,0,1,0,0,1,,,0.03125,,,,0.03125,1,,,,1,,,2.00056E-05,,0,0,2.631094E-05
-2.361203,"2020-01-26 08:40:07.920",河南,固始,1,0,0,0,1,0,0,1,,,0.03125,,,,0.03125,1,,,,1,,,2.00056E-05,,0,0,2.631094E-05
-2.373812,"2020-01-26 08:58:17.364",河南,固始,1,0,0,0,1,0,0,1,,,0.01204819,,,0,0.01219512,1,,,,1,,,2.00056E-05,,0,0,2.631094E-05
-2.430554,"2020-01-26 10:19:59.881",河南,固始,1,0,0,0,1,0,0,1,,,0.01204819,,,0,0.01219512,1,,,,1,,,2.00056E-05,,0,0,2.631094E-05
+1.465641,"2020-01-25 11:10:31.412",河南,固始,1,0,0,0,1,0,0,1,,,0.03125,,,,0.03125,1,,,,1,,,2.00036E-05,,0,0,2.631094E-05
+2.361203,"2020-01-26 08:40:07.920",河南,固始,1,0,0,0,1,0,0,1,,,0.03125,,,,0.03125,1,,,,1,,,2.00036E-05,,0,0,2.631094E-05
+2.373812,"2020-01-26 08:58:17.364",河南,固始,1,0,0,0,1,0,0,1,,,0.01204819,,,0,0.01219512,1,,,,1,,,2.00036E-05,,0,0,2.631094E-05
+2.430554,"2020-01-26 10:19:59.881",河南,固始,1,0,0,0,1,0,0,1,,,0.01204819,,,0,0.01219512,1,,,,1,,,2.00036E-05,,0,0,2.631094E-05
