@@ -1,5 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-9.374069,"2020-02-02 08:58:39.551",山东,待明确地区,0,0,1,0,,,,,0,,0,,0.2,,,,,0.1666667,,,,,0,,2.841151E-05,0,
-28.43646,"2020-02-21 10:28:30.276",山东,待明确地区,2,0,16,0,-14,8,0,-7,0,,0.002673797,,0.05925926,0,-0.02953587,,,2.666667,,1,,,4.00072E-05,,0.0004545842,0,-0.0003683532
-29.59307,"2020-02-22 14:14:01.134",山东,待明确地区,0,0,6,0,,,,,0,,0,,0.02006689,0,,,,1,,,,,0,,0.0001704691,0,
-29.59379,"2020-02-22 14:15:03.354",山东,待明确地区,0,0,6,0,,,,,0,,0,,0.01993356,0,,,,1,,,,,0,,0.0001704691,0,
+9.374069,"2020-02-02 08:58:39.551",山东,待明确地区,0,0,1,0,,,,,0,,0,,0.2,,,,,0.1666667,,,,,0,,2.743409E-05,0,
+28.43646,"2020-02-21 10:28:30.276",山东,待明确地区,2,0,16,0,-14,8,0,-7,0,,0.002673797,,0.05925926,0,-0.02953587,,,2.666667,,1,,,4.0004E-05,,0.0004389454,0,-0.0003683532
+29.59307,"2020-02-22 14:14:01.134",山东,待明确地区,0,0,6,0,,,,,0,,0,,0.02006689,0,,,,1,,,,,0,,0.0001646045,0,
+29.59379,"2020-02-22 14:15:03.354",山东,待明确地区,0,0,6,0,,,,,0,,0,,0.01993356,0,,,,1,,,,,0,,0.0001646045,0,
