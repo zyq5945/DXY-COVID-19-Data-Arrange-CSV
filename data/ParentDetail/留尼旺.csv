@@ -1,4 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-53.6224,"2020-03-17 14:56:15.353",留尼旺,6,0,0,0,6,0,0,1,,,0.6666667,,,,0.6666667,,,2.289945E-05,,0,0,0.0001184998
-53.63492,"2020-03-17 15:14:17.040",留尼旺,9,0,0,0,9,0,0,1,,,1,,,,1,,,3.434918E-05,,0,0,0.0001777497
-53.63642,"2020-03-17 15:16:26.726",留尼旺,9,0,0,0,9,0,0,1,,,1,,,,1,,,3.434918E-05,,0,0,0.0001777497
+53.6224,"2020-03-17 14:56:15.353",留尼旺,6,0,0,0,6,0,0,1,,,0.6666667,,,,0.6666667,,,2.279298E-05,,0,0,0.0001184998
+53.63492,"2020-03-17 15:14:17.040",留尼旺,9,0,0,0,9,0,0,1,,,1,,,,1,,,3.418946E-05,,0,0,0.0001777497
+53.63642,"2020-03-17 15:16:26.726",留尼旺,9,0,0,0,9,0,0,1,,,1,,,,1,,,3.418946E-05,,0,0,0.0001777497
+53.72574,"2020-03-17 17:25:03.810",留尼旺,9,0,0,0,9,0,0,1,,,1,,,,1,,,3.418946E-05,,0,0,0.0001777497
