@@ -1,6 +1,6 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-7.732897,"2020-01-31 17:35:22",新疆,石河子,1,0,0,0,1,0,0,1,,,0.05882353,,,,0.05882353,1,,,,1,,,1.99984E-05,,0,0,2.631094E-05
-7.735982,"2020-01-31 17:39:48",新疆,石河子,1,0,0,0,1,0,0,1,,,0.05882353,,,,0.05882353,1,,,,1,,,1.99984E-05,,0,0,2.631094E-05
-13.60629,"2020-02-06 14:33:03",新疆,石河子,1,0,0,0,1,0,0,1,,,0.02777778,,,,0.02777778,1,,,,1,,,1.99984E-05,,0,0,2.631094E-05
-13.62738,"2020-02-06 15:03:26",新疆,石河子,1,0,0,0,1,0,0,1,,,0.02777778,,,,0.02777778,1,,,,1,,,1.99984E-05,,0,0,2.631094E-05
-14.39937,"2020-02-07 09:35:05",新疆,石河子,1,0,0,0,1,0,0,1,,,0.02564103,,,,0.02564103,1,,,,1,,,1.99984E-05,,0,0,2.631094E-05
+7.732897,"2020-01-31 17:35:22",新疆,石河子,1,0,0,0,1,0,0,1,,,0.05882353,,,,0.05882353,1,,,,1,,,1.9998E-05,,0,0,2.631094E-05
+7.735982,"2020-01-31 17:39:48",新疆,石河子,1,0,0,0,1,0,0,1,,,0.05882353,,,,0.05882353,1,,,,1,,,1.9998E-05,,0,0,2.631094E-05
+13.60629,"2020-02-06 14:33:03",新疆,石河子,1,0,0,0,1,0,0,1,,,0.02777778,,,,0.02777778,1,,,,1,,,1.9998E-05,,0,0,2.631094E-05
+13.62738,"2020-02-06 15:03:26",新疆,石河子,1,0,0,0,1,0,0,1,,,0.02777778,,,,0.02777778,1,,,,1,,,1.9998E-05,,0,0,2.631094E-05
+14.39937,"2020-02-07 09:35:05",新疆,石河子,1,0,0,0,1,0,0,1,,,0.02564103,,,,0.02564103,1,,,,1,,,1.9998E-05,,0,0,2.631094E-05
