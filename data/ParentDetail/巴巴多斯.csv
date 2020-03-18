@@ -1,4 +1,4 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-54.51831,"2020-03-18 12:26:22",巴巴多斯,2,0,0,0,2,0,0,1,,,1,,,,1,,,7.134169E-06,,0,0,3.949993E-05
-54.52435,"2020-03-18 12:35:03",巴巴多斯,2,0,0,0,2,0,0,1,,,1,,,,1,,,7.134169E-06,,0,0,3.949993E-05
-54.54615,"2020-03-18 13:06:27",巴巴多斯,2,0,0,0,2,0,0,1,,,1,,,,1,,,7.134169E-06,,0,0,3.949993E-05
+54.51831,"2020-03-18 12:26:22",巴巴多斯,2,0,0,0,2,0,0,1,,,1,,,,1,,,7.027234E-06,,0,0,3.949993E-05
+54.52435,"2020-03-18 12:35:03",巴巴多斯,2,0,0,0,2,0,0,1,,,1,,,,1,,,7.027234E-06,,0,0,3.949993E-05
+54.54615,"2020-03-18 13:06:27",巴巴多斯,2,0,0,0,2,0,0,1,,,1,,,,1,,,7.027234E-06,,0,0,3.949993E-05
