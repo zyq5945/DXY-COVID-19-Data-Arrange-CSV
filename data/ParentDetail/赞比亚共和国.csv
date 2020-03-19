@@ -1,2 +1,4 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-55.02199,"2020-03-19 00:31:40",Total,286462,0,152898,11438,122126,0.5337462,0.03992851,0.4263253,0.07480804,13.36755,,,,,,,,,,,,
+54.92783,"2020-03-18 22:16:04",赞比亚共和国,2,0,0,0,2,0,0,1,,,1,,,,1,,,6.981729E-06,,0,0,3.949993E-05
+54.92879,"2020-03-18 22:17:28",赞比亚共和国,2,0,0,0,2,0,0,1,,,1,,,,1,,,6.981729E-06,,0,0,3.949993E-05
+55.00028,"2020-03-19 00:00:24",赞比亚共和国,2,0,0,0,2,0,0,1,,,1,,,,1,,,6.981729E-06,,0,0,3.949993E-05

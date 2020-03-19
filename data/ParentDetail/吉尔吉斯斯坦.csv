@@ -1,4 +1,7 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-54.54539,"2020-03-18 13:05:21",吉尔吉斯斯坦,3,0,0,0,3,0,0,1,,,1,,,,1,,,1.054085E-05,,0,0,5.924989E-05
-54.54615,"2020-03-18 13:06:27",吉尔吉斯斯坦,3,0,0,0,3,0,0,1,,,1,,,,1,,,1.054085E-05,,0,0,5.924989E-05
-54.60433,"2020-03-18 14:30:13",吉尔吉斯斯坦,3,0,0,0,3,0,0,1,,,1,,,,1,,,1.054085E-05,,0,0,5.924989E-05
+54.54538,"2020-03-18 13:05:21",吉尔吉斯斯坦,3,0,0,0,3,0,0,1,,,1,,,,1,,,1.047259E-05,,0,0,5.924989E-05
+54.54615,"2020-03-18 13:06:27",吉尔吉斯斯坦,3,0,0,0,3,0,0,1,,,1,,,,1,,,1.047259E-05,,0,0,5.924989E-05
+54.60432,"2020-03-18 14:30:13",吉尔吉斯斯坦,3,0,0,0,3,0,0,1,,,1,,,,1,,,1.047259E-05,,0,0,5.924989E-05
+54.92783,"2020-03-18 22:16:04",吉尔吉斯斯坦,3,0,0,0,3,0,0,1,,,1,,,,1,,,1.047259E-05,,0,0,5.924989E-05
+54.92879,"2020-03-18 22:17:28",吉尔吉斯斯坦,3,0,0,0,3,0,0,1,,,1,,,,1,,,1.047259E-05,,0,0,5.924989E-05
+55.00028,"2020-03-19 00:00:24",吉尔吉斯斯坦,3,0,0,0,3,0,0,1,,,1,,,,1,,,1.047259E-05,,0,0,5.924989E-05

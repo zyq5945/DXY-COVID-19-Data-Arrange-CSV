@@ -1,4 +1,4 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
 53.38714,"2020-03-17 09:17:29",陕西,境外输入人员,1,0,0,0,1,0,0,1,,,0.00406504,,0,0,0.1,1,,,,1,,,1.9998E-05,,0,0,2.631094E-05
-53.77929,"2020-03-17 18:42:10",陕西,境外输入人员,1,0,0,0,1,0,0,1,,,0.00406504,,0,0,0.1428571,1,,,,1,,,1.9998E-05,,0,0,2.631094E-05
-54.49353,"2020-03-18 11:50:40",陕西,境外输入人员,1,0,0,0,1,0,0,1,,,0.00406504,,0,0,0.1666667,1,,,,1,,,1.9998E-05,,0,0,2.631094E-05
+53.77928,"2020-03-17 18:42:10",陕西,境外输入人员,1,0,0,0,1,0,0,1,,,0.00406504,,0,0,0.1428571,1,,,,1,,,1.9998E-05,,0,0,2.631094E-05
+54.49352,"2020-03-18 11:50:40",陕西,境外输入人员,1,0,0,0,1,0,0,1,,,0.00406504,,0,0,0.1666667,1,,,,1,,,1.9998E-05,,0,0,2.631094E-05
