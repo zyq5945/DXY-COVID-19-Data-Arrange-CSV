@@ -1,3 +1,4 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-56.52344,"2020-03-20 12:33:45",福建,境外输入人员,3,0,0,0,3,0,0,1,,,0.01003344,,0,0,1,0.4285714,,,,0.4285714,,,5.9994E-05,,0,0,7.893283E-05
-57.41876,"2020-03-21 10:03:01",福建,境外输入人员,7,0,0,0,7,0,0,1,,,0.02310231,,0,0,1,1,,,,1,,,0.000139986,,0,0,0.0001841766
+56.52344,"2020-03-20 12:33:45",福建,境外输入人员,3,0,0,0,3,0,0,1,,,0.01003344,,0,0,1,0.2727273,,,,0.2727273,,,5.9994E-05,,0,0,7.893283E-05
+57.41876,"2020-03-21 10:03:01",福建,境外输入人员,7,0,0,0,7,0,0,1,,,0.02310231,,0,0,1,0.6363636,,,,0.6363636,,,0.000139986,,0,0,0.0001841766
+58.63933,"2020-03-22 15:20:38",福建,境外输入人员,11,0,0,0,11,0,0,1,,,0.03583062,,0,0,1,1,,,,1,,,0.000219978,,0,0,0.0002894204

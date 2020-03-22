@@ -1,3 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-57.41876,"2020-03-21 10:03:01",新喀里多尼亚,2,0,0,0,2,0,0,1,,,1,,,,1,,,5.667312E-06,0,0,0,3.949993E-05
-57.4578,"2020-03-21 10:59:14",新喀里多尼亚,2,0,0,0,2,0,0,1,,,1,,,,1,,,5.667312E-06,0,0,0,3.949993E-05
+57.41876,"2020-03-21 10:03:01",新喀里多尼亚,2,0,0,0,2,0,0,1,,,1,,,,1,,,5.130455E-06,0,0,0,3.949993E-05
+57.4578,"2020-03-21 10:59:14",新喀里多尼亚,2,0,0,0,2,0,0,1,,,1,,,,1,,,5.130455E-06,0,0,0,3.949993E-05
+57.47359,"2020-03-21 11:21:58",新喀里多尼亚,2,0,0,0,2,0,0,1,,,1,,,,1,,,5.130455E-06,0,0,0,3.949993E-05
+57.89864,"2020-03-21 21:34:02",新喀里多尼亚,2,0,0,0,2,0,0,1,,,1,,,,1,,,5.130455E-06,0,0,0,3.949993E-05
