@@ -1,5 +1,8 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-59.23079,"2020-03-23 05:32:20",莫桑比克,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.401727E-06,0,0,0,1.974996E-05
-59.23922,"2020-03-23 05:44:29",莫桑比克,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.401727E-06,0,0,0,1.974996E-05
-59.32478,"2020-03-23 07:47:41",莫桑比克,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.401727E-06,0,0,0,1.974996E-05
-59.32863,"2020-03-23 07:53:14",莫桑比克,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.401727E-06,0,0,0,1.974996E-05
+59.23079,"2020-03-23 05:32:20",莫桑比克,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.396811E-06,0,0,0,1.974996E-05
+59.23922,"2020-03-23 05:44:29",莫桑比克,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.396811E-06,0,0,0,1.974996E-05
+59.32478,"2020-03-23 07:47:41",莫桑比克,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.396811E-06,0,0,0,1.974996E-05
+59.32863,"2020-03-23 07:53:14",莫桑比克,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.396811E-06,0,0,0,1.974996E-05
+59.41842,"2020-03-23 10:02:31",莫桑比克,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.396811E-06,0,0,0,1.974996E-05
+59.43769,"2020-03-23 10:30:16",莫桑比克,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.396811E-06,0,0,0,1.974996E-05
+59.43847,"2020-03-23 10:31:24",莫桑比克,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.396811E-06,0,0,0,1.974996E-05
