@@ -1,6 +1,6 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-3.406505,"2020-01-27 09:45:22",内蒙古,锡林郭勒盟二连浩特,1,0,0,0,1,0,0,1,,,0.09090909,,,,0.09090909,1,,,,1,,,1.9998E-05,0,0,0,2.631094E-05
-3.407905,"2020-01-27 09:47:23",内蒙古,锡林郭勒盟二连浩特,1,0,0,0,1,0,0,1,,,0.09090909,,,,0.09090909,1,,,,1,,,1.9998E-05,0,0,0,2.631094E-05
-3.4086,"2020-01-27 09:48:23",内蒙古,锡林郭勒盟二连浩特,1,0,0,0,1,0,0,1,,,0.09090909,,,,0.09090909,1,,,,1,,,1.9998E-05,0,0,0,2.631094E-05
-4.402327,"2020-01-28 09:39:21",内蒙古,锡林郭勒盟二连浩特,1,0,0,0,1,0,0,1,,,0.07692308,,,,0.07692308,1,,,,1,,,1.9998E-05,0,0,0,2.631094E-05
-4.655197,"2020-01-28 15:43:29",内蒙古,锡林郭勒盟二连浩特,1,0,0,0,1,0,0,1,,,0.06666667,,,,0.06666667,1,,,,1,,,1.9998E-05,0,0,0,2.631094E-05
+3.406505,"2020-01-27 09:45:22",内蒙古,锡林郭勒盟二连浩特,1,0,0,0,1,0,0,1,,,0.09090909,,,,0.09090909,1,,,,1,,,1.99976E-05,0,0,0,2.631094E-05
+3.407905,"2020-01-27 09:47:23",内蒙古,锡林郭勒盟二连浩特,1,0,0,0,1,0,0,1,,,0.09090909,,,,0.09090909,1,,,,1,,,1.99976E-05,0,0,0,2.631094E-05
+3.4086,"2020-01-27 09:48:23",内蒙古,锡林郭勒盟二连浩特,1,0,0,0,1,0,0,1,,,0.09090909,,,,0.09090909,1,,,,1,,,1.99976E-05,0,0,0,2.631094E-05
+4.402327,"2020-01-28 09:39:21",内蒙古,锡林郭勒盟二连浩特,1,0,0,0,1,0,0,1,,,0.07692308,,,,0.07692308,1,,,,1,,,1.99976E-05,0,0,0,2.631094E-05
+4.655197,"2020-01-28 15:43:29",内蒙古,锡林郭勒盟二连浩特,1,0,0,0,1,0,0,1,,,0.06666667,,,,0.06666667,1,,,,1,,,1.99976E-05,0,0,0,2.631094E-05
