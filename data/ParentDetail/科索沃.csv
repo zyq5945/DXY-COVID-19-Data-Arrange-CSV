@@ -1,0 +1,4 @@
+﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
+60.27711,"2020-03-24 06:39:02",科索沃,31,0,0,1,30,0,0.03225806,0.9677419,,0,1,,,1,1,,,6.811121E-05,0,0,5.115875E-05,0.000592499
+60.30337,"2020-03-24 07:16:51",科索沃,31,0,0,1,30,0,0.03225806,0.9677419,,0,1,,,1,1,,,6.811121E-05,0,0,5.115875E-05,0.000592499
+60.30952,"2020-03-24 07:25:43",科索沃,31,0,0,1,30,0,0.03225806,0.9677419,,0,1,,,1,1,,,6.811121E-05,0,0,5.115875E-05,0.000592499

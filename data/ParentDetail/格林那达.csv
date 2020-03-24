@@ -1,0 +1,4 @@
+﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
+60.30337,"2020-03-24 07:16:51",格林那达,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.197136E-06,0,0,0,1.974996E-05
+60.30414,"2020-03-24 07:17:58",格林那达,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.197136E-06,0,0,0,1.974996E-05
+60.30952,"2020-03-24 07:25:43",格林那达,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.197136E-06,0,0,0,1.974996E-05
