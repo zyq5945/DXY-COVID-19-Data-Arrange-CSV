@@ -1,4 +1,4 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-60.63916,"2020-03-24 15:20:23",北京,外地来京,25,0,2,0,23,0.08,0,0.92,0,,0.04480287,,0.004987531,0,0.1543624,1,,1,,1,,,0.00049994,0,4.578126E-05,0,0.0006051517
-61.61322,"2020-03-25 14:43:02",北京,外地来京,25,0,2,0,23,0.08,0,0.92,0,,0.04472272,0,0.004987531,0,0.1533333,1,,1,,1,,,0.00049994,0,4.578126E-05,0,0.0006051517
-61.64975,"2020-03-25 15:35:38",北京,外地来京,25,0,2,0,23,0.08,0,0.92,0,,0.04456328,0,0.004962779,0,0.1533333,1,,1,,1,,,0.00049994,0,4.578126E-05,0,0.0006051517
+60.63916,"2020-03-24 15:20:23",北京,外地来京,25,0,2,0,23,0.08,0,0.92,0,,0.04480287,,0.004987531,0,0.1543624,1,,1,,1,,,0.00049994,0,4.578021E-05,0,0.0006051517
+61.61322,"2020-03-25 14:43:02",北京,外地来京,25,0,2,0,23,0.08,0,0.92,0,,0.04472272,0,0.004987531,0,0.1533333,1,,1,,1,,,0.00049994,0,4.578021E-05,0,0.0006051517
+61.64975,"2020-03-25 15:35:38",北京,外地来京,25,0,2,0,23,0.08,0,0.92,0,,0.04456328,0,0.004962779,0,0.1533333,1,,1,,1,,,0.00049994,0,4.578021E-05,0,0.0006051517

@@ -1,3 +1,7 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-61.61322,"2020-03-25 14:43:02",特克斯和凯科斯群岛,1,0,0,0,1,0,0,1,,,1,,,,1,,,1.990391E-06,0,0,0,1.850824E-05
-61.64619,"2020-03-25 15:30:31",特克斯和凯科斯群岛,1,0,0,0,1,0,0,1,,,1,,,,1,,,1.990391E-06,0,0,0,1.850824E-05
+61.61322,"2020-03-25 14:43:02",特克斯和凯科斯群岛,1,0,0,0,1,0,0,1,,,1,,,,1,,,1.850646E-06,0,0,0,1.643034E-05
+61.64619,"2020-03-25 15:30:31",特克斯和凯科斯群岛,1,0,0,0,1,0,0,1,,,1,,,,1,,,1.850646E-06,0,0,0,1.643034E-05
+61.8223,"2020-03-25 19:44:07",特克斯和凯科斯群岛,1,0,0,0,1,0,0,1,,,1,,,,1,,,1.850646E-06,0,0,0,1.643034E-05
+62.25301,"2020-03-26 06:04:20",特克斯和凯科斯群岛,1,0,0,0,1,0,0,1,,,1,,,,1,,,1.850646E-06,0,0,0,1.643034E-05
+62.28788,"2020-03-26 06:54:33",特克斯和凯科斯群岛,1,0,0,0,1,0,0,1,,,1,,,,1,,,1.850646E-06,0,0,0,1.643034E-05
+62.303,"2020-03-26 07:16:19",特克斯和凯科斯群岛,1,0,0,0,1,0,0,1,,,1,,,,1,,,1.850646E-06,0,0,0,1.643034E-05
