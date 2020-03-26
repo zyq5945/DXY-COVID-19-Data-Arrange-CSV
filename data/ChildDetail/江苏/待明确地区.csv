@@ -1,4 +1,4 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-8.377905,"2020-02-01 09:04:11",江苏,待明确地区,0,0,3,0,,,,,0,,0,,0.375,,,,,0.1875,,,,,0,0,6.867031E-05,0,
-12.38836,"2020-02-05 09:19:14",江苏,待明确地区,0,0,5,0,,,,,0,,0,,0.2941177,,,,,0.3125,,,,,0,0,0.0001144505,0,
-26.37008,"2020-02-19 08:52:55",江苏,待明确地区,0,0,16,0,,,,,0,,0,,0.05405406,,,,,1,,,,,0,0,0.0003662417,0,
+8.377905,"2020-02-01 09:04:11",江苏,待明确地区,0,0,3,0,,,,,0,,0,,0.375,,,,,0.1875,,,,,0,0,6.807661E-05,0,
+12.38836,"2020-02-05 09:19:14",江苏,待明确地区,0,0,5,0,,,,,0,,0,,0.2941177,,,,,0.3125,,,,,0,0,0.000113461,0,
+26.37008,"2020-02-19 08:52:55",江苏,待明确地区,0,0,16,0,,,,,0,,0,,0.05405406,,,,,1,,,,,0,0,0.0003630753,0,

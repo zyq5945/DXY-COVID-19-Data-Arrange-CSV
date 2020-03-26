@@ -1,2 +1,3 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-61.61322,"2020-03-25 14:43:02",内蒙古,境外输入人员,2,0,0,0,2,0,0,1,,,0.02597403,,0,0,1,1,,,,1,,,3.99952E-05,0,0,0,5.262189E-05
+61.61322,"2020-03-25 14:43:02",内蒙古,境外输入人员,2,0,0,0,2,0,0,1,,,0.02597403,,0,0,1,0.1428571,,,,0.1428571,,,3.99952E-05,0,0,0,5.262189E-05
+62.44545,"2020-03-26 10:41:27",内蒙古,境外输入人员,14,0,0,0,14,0,0,1,,,0.1573034,,0,0,1,1,,,,1,,,0.0002799664,0,0,0,0.0003683532
