@@ -1,2 +1,4 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-61.61322,"2020-03-25 14:43:02",山东,境外输入,10,0,0,0,10,0,0,1,,,0.0130039,,0,0,1,1,,,,1,,,0.000199976,0,0,0,0.0002631094
+61.61322,"2020-03-25 14:43:02",山东,境外输入,10,0,0,0,10,0,0,1,,,0.0130039,,0,0,1,0.7692308,0,,,0.7692308,,,0.000199976,0,0,0,0.0002631094
+62.65714,"2020-03-26 15:46:17",山东,境外输入,12,12,0,0,12,0,0,1,,,0.0155642,1,0,0,1,0.9230769,1,,,0.9230769,,,0.0002399712,1,0,0,0.0003157313
+63.65886,"2020-03-27 15:48:45",山东,境外输入,13,12,0,0,13,0,0,1,,,0.01683938,1,0,0,1,1,1,,,1,,,0.0002599688,1,0,0,0.0003420422
