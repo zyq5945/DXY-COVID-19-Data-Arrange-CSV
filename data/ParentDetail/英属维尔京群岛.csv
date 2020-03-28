@@ -1,3 +1,4 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-64.35362,"2020-03-28 08:29:13",英属维尔京群岛,2,0,0,0,2,0,0,1,,,1,,,,1,,,3.01823E-06,0,0,0,2.015987E-05
-64.36974,"2020-03-28 08:52:25",英属维尔京群岛,2,0,0,0,2,0,0,1,,,1,,,,1,,,3.01823E-06,0,0,0,2.015987E-05
+64.35362,"2020-03-28 08:29:13",英属维尔京群岛,2,0,0,0,2,0,0,1,,,1,,,,1,,,3.016669E-06,0,0,0,2.015987E-05
+64.36974,"2020-03-28 08:52:25",英属维尔京群岛,2,0,0,0,2,0,0,1,,,1,,,,1,,,3.016669E-06,0,0,0,2.015987E-05
+64.41755,"2020-03-28 10:01:16",英属维尔京群岛,2,0,0,0,2,0,0,1,,,1,,,,1,,,3.016669E-06,0,0,0,2.015987E-05
