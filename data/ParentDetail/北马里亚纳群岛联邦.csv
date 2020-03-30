@@ -1,4 +1,7 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-66.30561,"2020-03-30 07:20:05",北马里亚纳群岛联邦,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.513962E-06,0,0,0,1.473253E-05
-66.30843,"2020-03-30 07:24:08",北马里亚纳群岛联邦,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.513962E-06,0,0,0,1.473253E-05
-66.32244,"2020-03-30 07:44:19",北马里亚纳群岛联邦,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.513962E-06,0,0,0,1.473253E-05
+66.30561,"2020-03-30 07:20:05",北马里亚纳群岛联邦,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.511891E-06,0,0,0,1.473253E-05
+66.30843,"2020-03-30 07:24:08",北马里亚纳群岛联邦,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.511891E-06,0,0,0,1.473253E-05
+66.32244,"2020-03-30 07:44:19",北马里亚纳群岛联邦,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.511891E-06,0,0,0,1.473253E-05
+66.41789,"2020-03-30 10:01:46",北马里亚纳群岛联邦,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.511891E-06,0,0,0,1.473253E-05
+66.42421,"2020-03-30 10:10:52",北马里亚纳群岛联邦,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.511891E-06,0,0,0,1.473253E-05
+66.45001,"2020-03-30 10:48:01",北马里亚纳群岛联邦,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.511891E-06,0,0,0,1.473253E-05
