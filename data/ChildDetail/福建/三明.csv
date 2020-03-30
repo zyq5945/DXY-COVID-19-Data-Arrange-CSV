@@ -1,5 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-0.6737963,"2020-01-24 16:10:16",福建,三明,0,1,0,0,,,,,,,0,0.5,,,,0,,0,,,,,0,0.08333334,0,0,
+0.6737963,"2020-01-24 16:10:16",福建,三明,0,1,0,0,,,,,,,0,0.5,,,,0,,0,,,,,0,0.07142857,0,0,
 1.671944,"2020-01-25 16:07:36",福建,三明,1,0,0,0,1,0,0,1,,,0.05555556,0,,,0.05555556,0.07142857,,0,,0.08333334,,,1.99976E-05,0,0,0,2.631094E-05
 1.68037,"2020-01-25 16:19:44",福建,三明,1,0,0,0,1,0,0,1,,,0.05555556,0,,,0.05555556,0.07142857,,0,,0.08333334,,,1.99976E-05,0,0,0,2.631094E-05
 2.361192,"2020-01-26 08:40:07",福建,三明,1,0,0,0,1,0,0,1,,,0.05555556,,,,0.05555556,0.07142857,,0,,0.08333334,,,1.99976E-05,0,0,0,2.631094E-05
@@ -157,3 +157,4 @@
 63.38058,"2020-03-27 09:08:02",福建,三明,14,0,14,0,0,1,0,0,0,,0.04229607,,0.04745763,0,0,1,,1,,0,,,0.0002799664,0,0.0003082139,0,0
 64.39993,"2020-03-28 09:35:54",福建,三明,14,0,14,0,0,1,0,0,0,,0.04154303,,0.04745763,0,0,1,,1,,0,,,0.0002799664,0,0.0003082139,0,0
 65.37292,"2020-03-29 08:57:01",福建,三明,14,0,14,0,0,1,0,0,0,,0.04142012,,0.04745763,0,0,1,,1,,0,,,0.0002799664,0,0.0003082139,0,0
+66.35611,"2020-03-30 08:32:48",福建,三明,14,0,14,0,0,1,0,0,0,,0.04117647,,0.04745763,0,0,1,,1,,0,,,0.0002799664,0,0.0003082139,0,0

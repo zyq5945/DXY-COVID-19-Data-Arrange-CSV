@@ -1,7 +1,7 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
 65.4167,"2020-03-29 10:00:03",江苏,南京,93,0,93,0,0,1,0,0,0,,0.1444099,0,0.1473851,,0,1,,1,,0,,,0.001859777,0,0.002047421,0,0
 65.4167,"2020-03-29 10:00:03",江苏,南通,40,0,40,0,0,1,0,0,0,,0.0621118,0,0.06339144,,0,1,,1,,0,,,0.000799904,0,0.0008806111,0,0
-65.4167,"2020-03-29 10:00:03",江苏,境外输入,13,3,0,0,13,0,0,1,,,0.02018633,1,0,,1,1,1,,,1,,,0.0002599688,0.25,0,0,0.0003420422
+65.4167,"2020-03-29 10:00:03",江苏,境外输入,13,3,0,0,13,0,0,1,,,0.02018633,1,0,,1,1,1,,,1,,,0.0002599688,0.2142857,0,0,0.0003420422
 65.4167,"2020-03-29 10:00:03",江苏,宿迁,13,0,13,0,0,1,0,0,0,,0.02018633,0,0.02060222,,0,1,,1,,0,,,0.0002599688,0,0.0002861986,0,0
 65.4167,"2020-03-29 10:00:03",江苏,常州,51,0,51,0,0,1,0,0,0,,0.07919255,0,0.08082409,,0,1,,1,,0,,,0.001019878,0,0.001122779,0,0
 65.4167,"2020-03-29 10:00:03",江苏,徐州,79,0,79,0,0,1,0,0,0,,0.1226708,0,0.1251981,,0,1,,1,,0,,,0.00157981,0,0.001739207,0,0
