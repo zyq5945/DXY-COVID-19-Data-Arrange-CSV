@@ -1,4 +1,4 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-20.37319,"2020-02-13 08:57:24",安徽,待明确地区,0,0,0,1,,,,,,0,0,,0,0.2,,,,0,,,,,0,0,0,0.0003926188,
-24.3769,"2020-02-17 09:02:44",安徽,待明确地区,0,0,11,0,,,,,0,,0,,0.04135338,0,,,,3.666667,,,,,0,0,0.0002405002,0,
-25.38419,"2020-02-18 09:13:14",安徽,待明确地区,0,0,3,0,,,,,0,,0,,0.01023891,0,,,,1,,,,,0,0,6.559098E-05,0,
+20.37319,"2020-02-13 08:57:24",安徽,待明确地区,0,0,0,1,,,,,,0,0,,0,0.2,,,,0,,,,,0,0,0,0.0003924647,
+24.3769,"2020-02-17 09:02:44",安徽,待明确地区,0,0,11,0,,,,,0,,0,,0.04135338,0,,,,3.666667,,,,,0,0,0.00023912,0,
+25.38419,"2020-02-18 09:13:14",安徽,待明确地区,0,0,3,0,,,,,0,,0,,0.01023891,0,,,,1,,,,,0,0,6.521455E-05,0,
