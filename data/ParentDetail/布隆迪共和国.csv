@@ -1,3 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-68.3012,"2020-04-01 07:13:44",布隆迪共和国,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.161466E-06,0,0,0,1.139309E-05
-68.32785,"2020-04-01 07:52:06",布隆迪共和国,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.161466E-06,0,0,0,1.139309E-05
+68.3012,"2020-04-01 07:13:44",布隆迪共和国,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.160126E-06,0,0,0,1.139309E-05
+68.32785,"2020-04-01 07:52:06",布隆迪共和国,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.160126E-06,0,0,0,1.139309E-05
+68.41776,"2020-04-01 10:01:35",布隆迪共和国,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.160126E-06,0,0,0,1.139309E-05
+68.5252,"2020-04-01 12:36:17",布隆迪共和国,2,0,0,0,2,0,0,1,,,1,,,,1,,,2.160126E-06,0,0,0,1.139309E-05
