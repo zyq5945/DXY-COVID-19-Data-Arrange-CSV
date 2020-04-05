@@ -1,6 +1,6 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadRateEx,ChildCuredRateEx,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-18.68302,"2020-02-11 16:23:33",重庆,待明确地区,0,0,6,0,,,,,0,,0,,0.08333334,0,,,,1.2,,,0,,0,0,0.0001282216,0,
-18.69365,"2020-02-11 16:38:51",重庆,待明确地区,0,0,6,0,,,,,0,,0,,0.08333334,0,,,,1.2,,,0,,0,0,0.0001282216,0,
-20.65428,"2020-02-13 15:42:10",重庆,待明确地区,0,0,12,0,,,,,0,,0,,0.1052632,0,,,,2.4,,,0,,0,0,0.0002564431,0,
-20.92551,"2020-02-13 22:12:44",重庆,待明确地区,0,0,12,0,,,,,0,,0,,0.09375,0,,,,2.4,,,0,,0,0,0.0002564431,0,
-45.92848,"2020-03-09 22:17:01",重庆,待明确地区,0,0,5,0,,,,,0,,0,,0.009345794,0,,,,1,,,0,,0,0,0.0001068513,0,
+18.68302,"2020-02-11 16:23:33",重庆,待明确地区,0,0,6,0,,,,,0,,0,,0.08333334,0,,,,1.2,,,0,1,0,0,0.0001282216,0,
+18.69365,"2020-02-11 16:38:51",重庆,待明确地区,0,0,6,0,,,,,0,,0,,0.08333334,0,,,,1.2,,,0,1,0,0,0.0001282216,0,
+20.65428,"2020-02-13 15:42:10",重庆,待明确地区,0,0,12,0,,,,,0,,0,,0.1052632,0,,,,2.4,,,0,1,0,0,0.0002564431,0,
+20.92551,"2020-02-13 22:12:44",重庆,待明确地区,0,0,12,0,,,,,0,,0,,0.09375,0,,,,2.4,,,0,1,0,0,0.0002564431,0,
+45.92848,"2020-03-09 22:17:01",重庆,待明确地区,0,0,5,0,,,,,0,,0,,0.009345794,0,,,,1,,,0,1,0,0,0.0001068513,0,

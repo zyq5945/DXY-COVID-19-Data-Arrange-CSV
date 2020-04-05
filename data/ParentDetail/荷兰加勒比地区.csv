@@ -1,5 +1,6 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadRateEx,ParentCuredRateEx,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-72.33495,"2020-04-05 08:02:19",荷兰加勒比地区,2,0,0,0,2,0,0,1,,,1,,,,1,,,1.574574E-06,0,0,0,6.926695E-06
-72.41787,"2020-04-05 10:01:44",荷兰加勒比地区,2,0,0,0,2,0,0,1,,,1,,,,1,,,1.574574E-06,0,0,0,6.926695E-06
-72.51209,"2020-04-05 12:17:25",荷兰加勒比地区,2,0,0,0,2,0,0,1,,,1,,,,1,,,1.574574E-06,0,0,0,6.926695E-06
-72.59926,"2020-04-05 14:22:56",荷兰加勒比地区,2,0,0,0,2,0,0,1,,,1,,,,1,,,1.574574E-06,0,0,0,6.926695E-06
+72.33495,"2020-04-05 08:02:19",荷兰加勒比地区,2,0,0,0,2,0,0,1,,,1,,,,1,,,1.572238E-06,0,0,0,6.926695E-06
+72.41787,"2020-04-05 10:01:44",荷兰加勒比地区,2,0,0,0,2,0,0,1,,,1,,,,1,,,1.572238E-06,0,0,0,6.926695E-06
+72.51209,"2020-04-05 12:17:25",荷兰加勒比地区,2,0,0,0,2,0,0,1,,,1,,,,1,,,1.572238E-06,0,0,0,6.926695E-06
+72.59926,"2020-04-05 14:22:56",荷兰加勒比地区,2,0,0,0,2,0,0,1,,,1,,,,1,,,1.572238E-06,0,0,0,6.926695E-06
+72.80451,"2020-04-05 19:18:30",荷兰加勒比地区,2,0,0,0,2,0,0,1,,,1,,,,1,,,1.572238E-06,0,0,0,6.926695E-06
