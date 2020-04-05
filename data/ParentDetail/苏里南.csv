@@ -1,4 +1,4 @@
-﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadDivideCuredNorm,ParentCuredDivideDeadNorm,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
+﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadRateEx,ParentCuredRateEx,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
 50.48263,"2020-03-14 11:34:59",苏里南,1,0,0,0,1,0,0,1,,,0.1,,,0,0.1111111,,,8.027873E-07,0,0,0,3.499061E-06
 50.50932,"2020-03-14 12:13:25",苏里南,1,0,0,0,1,0,0,1,,,0.1,,,0,0.1111111,,,8.027873E-07,0,0,0,3.499061E-06
 50.80897,"2020-03-14 19:24:55",苏里南,1,0,0,0,1,0,0,1,,,0.1,,,0,0.1111111,,,8.027873E-07,0,0,0,3.499061E-06
@@ -112,8 +112,8 @@
 69.57633,"2020-04-02 13:49:55",苏里南,9,0,0,0,9,0,0,1,,,0.9,,,0,1,,,7.225085E-06,0,0,0,3.149155E-05
 70.53426,"2020-04-03 12:49:20",苏里南,9,0,0,0,9,0,0,1,,,0.9,,,0,1,,,7.225085E-06,0,0,0,3.149155E-05
 70.89816,"2020-04-03 21:33:21",苏里南,9,0,0,0,9,0,0,1,,,0.9,,,0,1,,,7.225085E-06,0,0,0,3.149155E-05
-71.34827,"2020-04-04 08:21:31",苏里南,9,0,0,1,8,0,0.1111111,0.8888889,,0,0.9,,,1,0.8888889,,,7.225085E-06,0,0,1.485597E-05,2.799248E-05
-71.41785,"2020-04-04 10:01:42",苏里南,9,0,0,1,8,0,0.1111111,0.8888889,,0,0.9,,,1,0.8888889,,,7.225085E-06,0,0,1.485597E-05,2.799248E-05
-71.54665,"2020-04-04 13:07:11",苏里南,9,0,0,1,8,0,0.1111111,0.8888889,,0,0.9,,,1,0.8888889,,,7.225085E-06,0,0,1.485597E-05,2.799248E-05
-72.33705,"2020-04-05 08:05:21",苏里南,10,0,0,1,9,0,0.1,0.9,,0,1,,,1,1,,,8.027872E-06,0,0,1.485597E-05,3.149155E-05
-72.41787,"2020-04-05 10:01:44",苏里南,10,0,0,1,9,0,0.1,0.9,,0,1,,,1,1,,,8.027872E-06,0,0,1.485597E-05,3.149155E-05
+71.34827,"2020-04-04 08:21:31",苏里南,9,0,0,1,8,0,0.1111111,0.8888889,,0,0.9,,,1,0.8888889,,0,7.225085E-06,0,0,1.485597E-05,2.799248E-05
+71.41785,"2020-04-04 10:01:42",苏里南,9,0,0,1,8,0,0.1111111,0.8888889,,0,0.9,,,1,0.8888889,,0,7.225085E-06,0,0,1.485597E-05,2.799248E-05
+71.54665,"2020-04-04 13:07:11",苏里南,9,0,0,1,8,0,0.1111111,0.8888889,,0,0.9,,,1,0.8888889,,0,7.225085E-06,0,0,1.485597E-05,2.799248E-05
+72.33705,"2020-04-05 08:05:21",苏里南,10,0,0,1,9,0,0.1,0.9,,0,1,,,1,1,,0,8.027872E-06,0,0,1.485597E-05,3.149155E-05
+72.41787,"2020-04-05 10:01:44",苏里南,10,0,0,1,9,0,0.1,0.9,,0,1,,,1,1,,0,8.027872E-06,0,0,1.485597E-05,3.149155E-05

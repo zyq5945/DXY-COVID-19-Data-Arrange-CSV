@@ -1,4 +1,4 @@
-﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadDivideCuredNorm,ChildCuredDivideDeadNorm,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
+﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadRateEx,ChildCuredRateEx,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
 61.61322,"2020-03-25 14:43:02",江苏,境外输入,7,0,0,0,7,0,0,1,,,0.01097179,,0,,1,0.35,,0,,0.35,,,0.0001399776,0,0,0,0.0001841766
 62.39134,"2020-03-26 09:23:32",江苏,境外输入,9,0,0,0,9,0,0,1,,,0.0140625,,0,,1,0.45,,0,,0.45,,,0.0001799712,0,0,0,0.0002367985
 63.40904,"2020-03-27 09:49:01",江苏,境外输入,10,0,0,0,10,0,0,1,,,0.01560062,,0,,1,0.5,,0,,0.5,,,0.000199968,0,0,0,0.0002631094
@@ -7,5 +7,5 @@
 67.38242,"2020-03-31 09:10:41",江苏,境外输入,15,1,0,0,15,0,0,1,,,0.02321981,0.3333333,0,,1,0.75,,0,,0.75,,,0.000299952,0.07142857,0,0,0.0003946642
 69.37397,"2020-04-02 08:58:31",江苏,境外输入,16,0,0,0,16,0,0,1,,,0.02472952,0,0,,1,0.8,,0,,0.8,,,0.0003199488,0,0,0,0.0004209751
 70.46129,"2020-04-03 11:04:15",江苏,境外输入,20,0,0,0,20,0,0,1,,,0.03072197,0,0,,1,1,,0,,1,,,0.000399936,0,0,0,0.0005262188
-70.4669,"2020-04-03 11:12:20",江苏,境外输入,20,0,1,0,19,0.05,0,0.95,0,,0.03072197,0,0.001582279,,1,1,,0.5,,0.95,,,0.000399936,0,2.137026E-05,0,0.0004999079
-72.39822,"2020-04-05 09:33:26",江苏,境外输入,20,0,2,0,18,0.1,0,0.9,0,,0.03072197,0,0.003159558,,1,1,,1,,0.9,,,0.000399936,0,4.274052E-05,0,0.000473597
+70.4669,"2020-04-03 11:12:20",江苏,境外输入,20,0,1,0,19,0.05,0,0.95,0,,0.03072197,0,0.001582279,,1,1,,0.5,,0.95,0,,0.000399936,0,2.137026E-05,0,0.0004999079
+72.39822,"2020-04-05 09:33:26",江苏,境外输入,20,0,2,0,18,0.1,0,0.9,0,,0.03072197,0,0.003159558,,1,1,,1,,0.9,0,,0.000399936,0,4.274052E-05,0,0.000473597
