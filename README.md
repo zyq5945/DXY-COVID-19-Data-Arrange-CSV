@@ -70,8 +70,8 @@
 |  ParentCuredNorm | 父康复数标准化 |
 |  ParentDeadNorm | 父死亡数标准化 |
 |  ParentTreatingNorm | 父正在治疗数标准化 |
-|  ParentDeadDivideCuredNorm | 父确诊数标准化 |
-|  ParentCuredDivideDeadNorm | 父康复除以死亡数标准化 |
+|  ParentDeadRateEx | 父康复数与父死亡数推算出的死亡率 |
+|  ParentCuredRateEx | 父康复数与父死亡数推算出的康复率 |
 |  ParentTatalConfirmedNorm | 总计的父确诊数标准化 |
 |  ParentTatalSuspectedNorm | 总计的父疑似数标准化 |
 |  ParentTatalCuredNorm | 总计的父康复数标准化 |
@@ -98,8 +98,8 @@
 |  ChildCuredNorm | 子康复数标准化 |
 |  ChildDeadNorm | 子死亡数标准化 |
 |  ChildTreatingNorm | 子正在治疗数标准化 |
-|  ChildDeadDivideCuredNorm | 子确诊数标准化 |
-|  ChildCuredDivideDeadNorm | 子康复除以死亡数标准化 |
+|  ChildDeadRateEx | 子康复数与子死亡数推算出的死亡率 |
+|  ChildCuredRateEx | 子康复数与子死亡数推算出的康复率 |
 |  ChildTatalConfirmedNorm | 总计的子确诊数标准化 |
 |  ChildTatalSuspectedNorm | 总计的子疑似数标准化 |
 |  ChildTatalCuredNorm | 总计的子康复数标准化 |
