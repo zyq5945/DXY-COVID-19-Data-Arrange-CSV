@@ -1,5 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadRateEx,ParentCuredRateEx,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-72.78127,"2020-04-05 18:45:01",南苏丹,1,0,0,0,1,0,0,1,,,1,,,,1,,,7.572883E-07,0,0,0,3.239433E-06
-72.78828,"2020-04-05 18:55:08",南苏丹,1,0,0,0,1,0,0,1,,,1,,,,1,,,7.572883E-07,0,0,0,3.239433E-06
-72.80451,"2020-04-05 19:18:30",南苏丹,1,0,0,0,1,0,0,1,,,1,,,,1,,,7.572883E-07,0,0,0,3.239433E-06
-72.84247,"2020-04-05 20:13:09",南苏丹,1,0,0,0,1,0,0,1,,,1,,,,1,,,7.572883E-07,0,0,0,3.239433E-06
+72.78127,"2020-04-05 18:45:01",南苏丹,1,0,0,0,1,0,0,1,,,1,,,,1,,,7.568951E-07,0,0,0,3.239433E-06
+72.78828,"2020-04-05 18:55:08",南苏丹,1,0,0,0,1,0,0,1,,,1,,,,1,,,7.568951E-07,0,0,0,3.239433E-06
+72.80451,"2020-04-05 19:18:30",南苏丹,1,0,0,0,1,0,0,1,,,1,,,,1,,,7.568951E-07,0,0,0,3.239433E-06
+72.84247,"2020-04-05 20:13:09",南苏丹,1,0,0,0,1,0,0,1,,,1,,,,1,,,7.568951E-07,0,0,0,3.239433E-06
