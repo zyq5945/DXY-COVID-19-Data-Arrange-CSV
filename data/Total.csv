@@ -1,2 +1,2 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadRateEx,ParentCuredRateEx,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-73.73404,"2020-04-06 17:37:01",Total,1331992,286,317591,73383,941018,0.2384331,0.05509267,0.7064742,0.2310613,4.327855,,,,,,0.1876928,0.8123072,,,,,
+73.7764,"2020-04-06 18:38:01",Total,1338923,286,320052,74177,944694,0.2390369,0.0554005,0.7055626,0.2317655,4.314707,,,,,,0.1881571,0.8118429,,,,,
