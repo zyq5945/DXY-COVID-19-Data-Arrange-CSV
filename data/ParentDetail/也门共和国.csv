@@ -1,4 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadRateEx,ParentCuredRateEx,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-77.57396,"2020-04-10 13:46:30",也门共和国,1,0,0,0,1,0,0,1,,,1,,,,1,,,5.797481E-07,0,0,0,2.215198E-06
-77.7963,"2020-04-10 19:06:40",也门共和国,1,0,0,0,1,0,0,1,,,1,,,,1,,,5.797481E-07,0,0,0,2.215198E-06
-78.3183,"2020-04-11 07:38:21",也门共和国,1,0,0,0,1,0,0,1,,,1,,,,1,,,5.797481E-07,0,0,0,2.215198E-06
+77.57396,"2020-04-10 13:46:30",也门共和国,1,0,0,0,1,0,0,1,,,1,,,,1,,,5.770164E-07,0,0,0,2.207642E-06
+77.7963,"2020-04-10 19:06:40",也门共和国,1,0,0,0,1,0,0,1,,,1,,,,1,,,5.770164E-07,0,0,0,2.207642E-06
+78.3183,"2020-04-11 07:38:21",也门共和国,1,0,0,0,1,0,0,1,,,1,,,,1,,,5.770164E-07,0,0,0,2.207642E-06
+78.41766,"2020-04-11 10:01:26",也门共和国,1,0,0,0,1,0,0,1,,,1,,,,1,,,5.770164E-07,0,0,0,2.207642E-06
