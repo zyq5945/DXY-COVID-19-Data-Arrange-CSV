@@ -1,4 +1,6 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadRateEx,ChildCuredRateEx,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
+10.44301,"2020-02-03 10:37:56",青海,海北,1,0,0,0,1,0,0,1,,,0.07692308,,,,0.07692308,0.3333333,,0,,0.3333333,,,1.986768E-05,0,0,0,2.631094E-05
+10.44455,"2020-02-03 10:40:09",青海,海北,1,0,0,0,1,0,0,1,,,0.07692308,,,,0.07692308,0.3333333,,0,,0.3333333,,,1.986768E-05,0,0,0,2.631094E-05
 10.46525,"2020-02-03 11:09:58",青海,海北,1,0,0,0,1,0,0,1,,,0.07692308,,,,0.07692308,0.3333333,,0,,0.3333333,,,1.986768E-05,0,0,0,2.631094E-05
 11.39769,"2020-02-04 09:32:40",青海,海北,3,0,0,0,3,0,0,1,,,0.2,,,,0.2,1,,0,,1,,,5.960304E-05,0,0,0,7.893283E-05
 12.38532,"2020-02-05 09:14:52",青海,海北,3,0,0,0,3,0,0,1,,,0.1764706,,,,0.1764706,1,,0,,1,,,5.960304E-05,0,0,0,7.893283E-05
