@@ -1,6 +1,6 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadRateEx,ChildCuredRateEx,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-15.41593,"2020-02-08 09:58:56",四川,待明确地区,0,0,8,0,,,,,0,,0,,0.16,0,,,,,0,,0,1,0,0,0.0001724324,0,
-15.49968,"2020-02-08 11:59:32",四川,待明确地区,0,0,8,0,,,,,0,,0,,0.1568628,0,,,,,0,,0,1,0,0,0.0001724324,0,
+15.41593,"2020-02-08 09:58:56",四川,待明确地区,0,0,8,0,,,,,0,,0,,0.16,0,,,,,0,,0,1,0,0,0.0001723506,0,
+15.49968,"2020-02-08 11:59:32",四川,待明确地区,0,0,8,0,,,,,0,,0,,0.1568628,0,,,,,0,,0,1,0,0,0.0001723506,0,
 23.47989,"2020-02-16 11:31:02",四川,待明确地区,0,0,0,2,,,,,,0,0,,0,0.6666667,,,,,1,,1,0,0,0,0,0.0005169294,
 23.49206,"2020-02-16 11:48:34",四川,待明确地区,0,0,0,2,,,,,,0,0,,0,0.6666667,,,,,1,,1,0,0,0,0,0.0005169294,
 23.74772,"2020-02-16 17:56:43",四川,待明确地区,0,0,0,2,,,,,,0,0,,0,0.6666667,,,,,1,,1,0,0,0,0,0.0005169294,
