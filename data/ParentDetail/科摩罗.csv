@@ -1,2 +1,2 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadRateEx,ParentCuredRateEx,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-97.86861,"2020-04-30 20:50:48",Total,3256097,1403,1022833,232393,2000871,0.3141285,0.07137164,0.6144998,0.2272052,4.401307,,,,,,0.1851404,0.8148596,,,,,
+97.86649,"2020-04-30 20:47:45",科摩罗,1,0,0,0,1,0,0,1,,,1,,,,1,,,3.071162E-07,0,0,0,1.136945E-06
