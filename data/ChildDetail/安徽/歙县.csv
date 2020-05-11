@@ -1,4 +1,4 @@
 ﻿TimeOffset,UpdateTime,ParentName,ChildName,ChildConfirmedCount,ChildSuspectedCount,ChildCuredCount,ChildDeadCount,ChildTreatingCount,ChildCuredRate,ChildDeadRate,ChildTreatingRate,ChildDeadDivideCured,ChildCuredDivideDead,ChildConfirmedCountRate,ChildSuspectedCountRate,ChildCuredCountRate,ChildDeadCountRate,ChildTreatingCountRate,ChildConfirmedNorm,ChildSuspectedNorm,ChildCuredNorm,ChildDeadNorm,ChildTreatingNorm,ChildDeadRateEx,ChildCuredRateEx,ChildTatalConfirmedNorm,ChildTatalSuspectedNorm,ChildTatalCuredNorm,ChildTatalDeadNorm,ChildTatalTreatingNorm
-5.527766,"2020-01-29 12:39:59",安徽,歙县,3,0,0,0,3,0,0,1,,,0.01935484,,,,0.01935484,1,,,,1,,,5.960186E-05,0,0,0,7.893283E-05
-5.532662,"2020-01-29 12:47:02",安徽,歙县,3,0,0,0,3,0,0,1,,,0.01935484,,0,,0.01960784,1,,,,1,,,5.960186E-05,0,0,0,7.893283E-05
-5.533357,"2020-01-29 12:48:02",安徽,歙县,3,0,0,0,3,0,0,1,,,0.01935484,,0,,0.01960784,1,,,,1,,,5.960186E-05,0,0,0,7.893283E-05
+5.527766,"2020-01-29 12:39:59",安徽,歙县,3,0,0,0,3,0,0,1,,,0.01935484,,,,0.01935484,1,,,,1,,,5.959594E-05,0,0,0,7.893283E-05
+5.532662,"2020-01-29 12:47:02",安徽,歙县,3,0,0,0,3,0,0,1,,,0.01935484,,0,,0.01960784,1,,,,1,,,5.959594E-05,0,0,0,7.893283E-05
+5.533357,"2020-01-29 12:48:02",安徽,歙县,3,0,0,0,3,0,0,1,,,0.01935484,,0,,0.01960784,1,,,,1,,,5.959594E-05,0,0,0,7.893283E-05
