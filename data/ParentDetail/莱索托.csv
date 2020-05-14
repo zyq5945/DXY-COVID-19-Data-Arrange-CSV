@@ -1,5 +1,5 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadRateEx,ParentCuredRateEx,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-110.8603,"2020-05-13 20:38:49",莱索托,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.276996E-07,0,0,0,9.408603E-07
-110.967,"2020-05-13 23:12:33",莱索托,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.276996E-07,0,0,0,9.408603E-07
-110.9946,"2020-05-13 23:52:11",莱索托,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.276996E-07,0,0,0,9.408603E-07
-111.418,"2020-05-14 10:01:59",莱索托,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.276996E-07,0,0,0,9.408603E-07
+110.8603,"2020-05-13 20:38:49",莱索托,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.27682E-07,0,0,0,9.405719E-07
+110.967,"2020-05-13 23:12:33",莱索托,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.27682E-07,0,0,0,9.405719E-07
+110.9946,"2020-05-13 23:52:11",莱索托,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.27682E-07,0,0,0,9.405719E-07
+111.418,"2020-05-14 10:01:59",莱索托,1,0,0,0,1,0,0,1,,,1,,,,1,,,2.27682E-07,0,0,0,9.405719E-07
