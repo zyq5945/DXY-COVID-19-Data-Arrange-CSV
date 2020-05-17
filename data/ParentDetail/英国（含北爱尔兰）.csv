@@ -1,3 +1,3 @@
 ﻿TimeOffset,UpdateTime,ParentName,ParentConfirmedCount,ParentSuspectedCount,ParentCuredCount,ParentDeadCount,ParentTreatingCount,ParentCuredRate,ParentDeadRate,ParentTreatingRate,ParentDeadDivideCured,ParentCuredDivideDead,ParentConfirmedNorm,ParentSuspectedNorm,ParentCuredNorm,ParentDeadNorm,ParentTreatingNorm,ParentDeadRateEx,ParentCuredRateEx,ParentTatalConfirmedNorm,ParentTatalSuspectedNorm,ParentTatalCuredNorm,ParentTatalDeadNorm,ParentTatalTreatingNorm
-35.74234,"2020-02-28 17:48:58",英国（含北爱尔兰）,16,0,8,0,8,0.5,0,0.5,0,,0.8,,1,,0.6666667,0,1,3.461983E-06,0,4.697358E-06,0,7.196309E-06
-36.54778,"2020-02-29 13:08:48",英国（含北爱尔兰）,20,0,8,0,12,0.4,0,0.6,0,,1,,1,,1,0,1,4.327479E-06,0,4.697358E-06,0,1.079446E-05
+35.74234,"2020-02-28 17:48:58",英国（含北爱尔兰）,16,0,8,0,8,0.5,0,0.5,0,,0.8,,1,,0.6666667,0,1,3.430698E-06,0,4.649241E-06,0,7.172881E-06
+36.54778,"2020-02-29 13:08:48",英国（含北爱尔兰）,20,0,8,0,12,0.4,0,0.6,0,,1,,1,,1,0,1,4.288373E-06,0,4.649241E-06,0,1.075932E-05
